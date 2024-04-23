@@ -37,7 +37,7 @@ _I'd love for you to make the most of this project - it's all about learning, he
    ```bash
    npm i
    ```
-
+#YES
 4. **Set up your MongoDB Database**
 
    - Open MongoDB Compass and connect MongoDB locally at `mongodb://localhost:27017`.
